@@ -965,6 +965,11 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!1 &15244737 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1274120107}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &17286421
 Mesh:
   m_ObjectHideFlags: 0
@@ -1138,6 +1143,19 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 705753480}
     m_Modifications:
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 495360974}
     - target: {fileID: 6706404865521697643, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.9356003
@@ -1437,6 +1455,11 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!1 &64077765 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1353071306}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &67132238
 GameObject:
   m_ObjectHideFlags: 0
@@ -1570,6 +1593,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 67132238}
   m_CullTransparentMesh: 1
+--- !u!1 &83467922 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1952797205}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &87614492
 Mesh:
   m_ObjectHideFlags: 0
@@ -2834,6 +2862,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 150797541}
   m_CullTransparentMesh: 1
+--- !u!1 &168994310 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1612761984}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &170204293
 GameObject:
   m_ObjectHideFlags: 0
@@ -3840,6 +3873,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &174021808 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 480282564}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &174796264
 GameObject:
   m_ObjectHideFlags: 0
@@ -4352,6 +4390,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &197679382 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1038138999}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &208613469
 Mesh:
   m_ObjectHideFlags: 0
@@ -4682,6 +4725,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &216581726 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1792102289}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &218663055
 GameObject:
   m_ObjectHideFlags: 0
@@ -5266,6 +5314,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1159489516}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -7133,6 +7195,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 448383947}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15.517957
@@ -7629,6 +7705,11 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!1 &325324919 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1958411585}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &326664310
 Mesh:
   m_ObjectHideFlags: 0
@@ -7794,6 +7875,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &332247596 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1049444500}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &334708572
 GameObject:
   m_ObjectHideFlags: 0
@@ -8201,6 +8287,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &339748602 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1020195633}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &346972844
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8213,6 +8304,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1806007440}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15.517957
@@ -8615,6 +8720,11 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!1 &355113898 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1374803115}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &372988297
 Mesh:
   m_ObjectHideFlags: 0
@@ -17699,6 +17809,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1947290398}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &423861675 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1230871355}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &425192443
 GameObject:
   m_ObjectHideFlags: 0
@@ -18606,6 +18721,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &448383947 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 321241988}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &457217850
 Mesh:
   m_ObjectHideFlags: 0
@@ -19488,6 +19608,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 174021808}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 54.017956
@@ -19537,6 +19671,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
   m_PrefabInstance: {fileID: 480282564}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &485693050 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 730780548}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &488875902
 GameObject:
@@ -19868,6 +20007,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &495360974 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2895487074982152991, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+  m_PrefabInstance: {fileID: 49343040}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &497692133
 Mesh:
   m_ObjectHideFlags: 0
@@ -20457,6 +20601,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &520089832 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 547028213}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &523813623
 GameObject:
   m_ObjectHideFlags: 0
@@ -21609,6 +21758,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &543531009 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 683363220}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &545188184
 Mesh:
   m_ObjectHideFlags: 0
@@ -21786,6 +21940,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 520089832}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -21929,11 +22097,12 @@ PrefabInstance:
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Transform,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"currentPoint","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -21943,6 +22112,10 @@ PrefabInstance:
       propertyPath: _data._objectReferences.Array.data[1]
       value: 
       objectReference: {fileID: 1372046926}
+    - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 666595906}
     - target: {fileID: 4444112975447197087, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: m_Name
       value: EnemyPatrol (1)
@@ -24237,6 +24410,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &616542166 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1145567267}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &622996110
 GameObject:
   m_ObjectHideFlags: 0
@@ -24785,6 +24963,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
+--- !u!1 &625814222 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1344147440}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &629931823
 GameObject:
   m_ObjectHideFlags: 0
@@ -28447,6 +28630,11 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!1 &666595906 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 928827031861045738, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
+  m_PrefabInstance: {fileID: 554624122}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &671059322
 GameObject:
   m_ObjectHideFlags: 0
@@ -28490,6 +28678,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 543531009}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.517956
@@ -28721,11 +28923,12 @@ PrefabInstance:
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Transform,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"currentPoint","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -28735,6 +28938,10 @@ PrefabInstance:
       propertyPath: _data._objectReferences.Array.data[1]
       value: 
       objectReference: {fileID: 1519007467}
+    - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 2051431079}
     - target: {fileID: 4444112975447197087, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: m_Name
       value: EnemyPatrol (1)
@@ -29621,6 +29828,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 485693050}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.517957
@@ -33558,6 +33779,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1742216453}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 43.017956
@@ -35460,6 +35695,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &820636952 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1270610865}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &824519342
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35472,6 +35712,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1723516427}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -37078,6 +37332,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &867101535 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2895487074982152991, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+  m_PrefabInstance: {fileID: 1358956187}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &869506445 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
@@ -40559,6 +40818,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 339748602}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -44396,6 +44669,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 197679382}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.517957
@@ -45273,6 +45560,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 332247596}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 64.01796
@@ -45852,6 +46153,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1266115446}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -45939,6 +46254,11 @@ Transform:
   - {fileID: 1225407723}
   m_Father: {fileID: 1688975243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1099907089 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2367791939805352416, guid: a187e49676031704880fd946ff4b042b, type: 3}
+  m_PrefabInstance: {fileID: 5841898022251389208}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1105270808
 GameObject:
   m_ObjectHideFlags: 0
@@ -45986,11 +46306,12 @@ PrefabInstance:
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Transform,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"currentPoint","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -46000,6 +46321,10 @@ PrefabInstance:
       propertyPath: _data._objectReferences.Array.data[1]
       value: 
       objectReference: {fileID: 713955763}
+    - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 1781968392}
     - target: {fileID: 4444112975447197087, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: m_Name
       value: EnemyPatrol
@@ -46233,6 +46558,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 616542166}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -47046,6 +47385,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1159489516 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 240592378}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1164168097
 GameObject:
   m_ObjectHideFlags: 0
@@ -48390,6 +48734,19 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 705753480}
     m_Modifications:
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1915907125}
     - target: {fileID: 6706404865521697643, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.9356
@@ -52601,6 +52958,11 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!1 &1222114630 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2895487074982152991, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+  m_PrefabInstance: {fileID: 7480906804006116848}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1225407719
 GameObject:
   m_ObjectHideFlags: 0
@@ -52918,6 +53280,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 423861675}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -52984,6 +53360,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1259864695}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.517957
@@ -53032,6 +53422,16 @@ PrefabInstance:
 --- !u!4 &1239515471 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1239515470}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1248152493 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2895487074982152991, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+  m_PrefabInstance: {fileID: 2059757409}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1259864695 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
   m_PrefabInstance: {fileID: 1239515470}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1262994948
@@ -53200,6 +53600,11 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
+--- !u!1 &1266115446 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1076917108}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1269361193
 GameObject:
   m_ObjectHideFlags: 0
@@ -53282,6 +53687,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 820636952}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 56.017956
@@ -53348,6 +53767,20 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 15244737}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 26.517956
@@ -53410,6 +53843,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 2044304275}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -53464,6 +53911,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
   m_PrefabInstance: {fileID: 1287663750}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1292570299 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1451185811039390498}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1293982127
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -53476,6 +53928,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1648356868}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -54358,6 +54824,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1340014974 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 928827031861045738, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
+  m_PrefabInstance: {fileID: 2157741129767670151}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1344147440
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -54370,6 +54841,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 625814222}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 61.017956
@@ -54597,6 +55082,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 64077765}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.517957
@@ -54655,6 +55154,19 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 705753480}
     m_Modifications:
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 867101535}
     - target: {fileID: 6706404865521697643, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
       propertyPath: m_LocalPosition.x
       value: 27.9356
@@ -54917,6 +55429,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 355113898}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.517956
@@ -55295,6 +55821,19 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4414758157555813852, guid: a187e49676031704880fd946ff4b042b, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4414758157555813852, guid: a187e49676031704880fd946ff4b042b, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4414758157555813852, guid: a187e49676031704880fd946ff4b042b, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1918071954}
     - target: {fileID: 4450899193819197948, guid: a187e49676031704880fd946ff4b042b, type: 3}
       propertyPath: m_Name
       value: BulletBox
@@ -55321,6 +55860,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1984642156}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -55374,6 +55927,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
   m_PrefabInstance: {fileID: 1411912682}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1416776033 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1863353451}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1417275811
 GameObject:
@@ -56609,6 +57167,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1427766547 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1985996350}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1428521182
 GameObject:
   m_ObjectHideFlags: 0
@@ -66622,6 +67185,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 168994310}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.517957
@@ -67471,6 +68048,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
+--- !u!1 &1648356868 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1293982127}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1662655014
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -67479,6 +68061,19 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 705753480}
     m_Modifications:
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1817192145}
     - target: {fileID: 6706404865521697643, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
       propertyPath: m_LocalPosition.x
       value: 57.9356
@@ -69067,6 +69662,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1723516427 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 824519342}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1733968929
 GameObject:
   m_ObjectHideFlags: 0
@@ -69485,6 +70085,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1742216453 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 748979933}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &1744817025
 Mesh:
   m_ObjectHideFlags: 0
@@ -69650,10 +70255,20 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1758569227 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1967089323}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1771884716 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1657485465679396458, guid: a187e49676031704880fd946ff4b042b, type: 3}
   m_PrefabInstance: {fileID: 5841898022251389208}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1781968392 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 928827031861045738, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
+  m_PrefabInstance: {fileID: 1108796433}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1782691771
 GameObject:
@@ -70673,6 +71288,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 216581726}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -70892,6 +71521,16 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1806007440 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 346972844}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1817192145 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2895487074982152991, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+  m_PrefabInstance: {fileID: 1662655014}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1826829527
 GameObject:
   m_ObjectHideFlags: 0
@@ -72914,6 +73553,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1416776033}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -73431,6 +74084,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1915907125 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2895487074982152991, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+  m_PrefabInstance: {fileID: 1201802111}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1917560273
 GameObject:
   m_ObjectHideFlags: 0
@@ -73783,6 +74441,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1303170452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1918071954 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2367791939805352416, guid: a187e49676031704880fd946ff4b042b, type: 3}
+  m_PrefabInstance: {fileID: 1405461901}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &1922095001
 Mesh:
   m_ObjectHideFlags: 0
@@ -74374,6 +75037,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 83467922}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.517957
@@ -74601,6 +75278,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 325324919}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 74.01796
@@ -74663,6 +75354,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1758569227}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15.517957
@@ -75176,6 +75881,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1984642156 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1411912682}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1985996350
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -75188,6 +75898,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1427766547}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalScale.y
       value: 1
@@ -76418,6 +77142,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &2044304275 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4847345872800660869, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+  m_PrefabInstance: {fileID: 1287663750}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2046397863
 GameObject:
   m_ObjectHideFlags: 0
@@ -76930,6 +77659,11 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!1 &2051431079 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 928827031861045738, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
+  m_PrefabInstance: {fileID: 701426064}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &2051436742
 Mesh:
   m_ObjectHideFlags: 0
@@ -77268,6 +78002,19 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 705753480}
     m_Modifications:
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1248152493}
     - target: {fileID: 6706404865521697643, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
       propertyPath: m_LocalPosition.x
       value: 57.9356
@@ -83475,6 +84222,20 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Rotation","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795065079179841224, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1292570299}
     - target: {fileID: 6993655215947241529, guid: a4a5a84ddc9767a41a5c68f92ed9c057, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10.017956
@@ -83534,11 +84295,12 @@ PrefabInstance:
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Transform,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"currentPoint","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"model","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -83548,6 +84310,10 @@ PrefabInstance:
       propertyPath: _data._objectReferences.Array.data[1]
       value: 
       objectReference: {fileID: 671059323}
+    - target: {fileID: 4045047917925759283, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 1340014974}
     - target: {fileID: 4444112975447197087, guid: 6e291dbdadaafa946aaa78e54ba2f3aa, type: 3}
       propertyPath: m_Name
       value: EnemyPatrol
@@ -83653,6 +84419,19 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4414758157555813852, guid: a187e49676031704880fd946ff4b042b, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4414758157555813852, guid: a187e49676031704880fd946ff4b042b, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4414758157555813852, guid: a187e49676031704880fd946ff4b042b, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1099907089}
     - target: {fileID: 4450899193819197948, guid: a187e49676031704880fd946ff4b042b, type: 3}
       propertyPath: m_Name
       value: BulletBox
@@ -83674,6 +84453,19 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 705753480}
     m_Modifications:
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"model","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2254228100876784691, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1222114630}
     - target: {fileID: 6706404865521697643, guid: ac222e6ed2007ae429b536990b0cf812, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.9356
